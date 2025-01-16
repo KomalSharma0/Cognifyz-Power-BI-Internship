@@ -32,7 +32,7 @@ The goal of this internship project was to explore, visualize, and derive insigh
 - Improved understanding of investment trends and factors influencing financial decisions.
 
 ## Dashboard File
-Access the interactive Power BI dashboard here: [Investment Preference Analysis Dashboard](https://your-dashboard-link.com)
+Access the interactive Power BI dashboard here: [Investment Preference Analysis Dashboard](https://github.com/KomalSharma0/Cognifyz-Power-BI-Internship/blob/main/Investment%20Preference%20-%20Dashboard.pbix)
 
 ## Insights
 Key findings from the dashboard:
